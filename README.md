@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/PachaMadhu/myLeetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PachaMadhu/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/PachaMadhu/myLeetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
