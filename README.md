@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PachaMadhu/myLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PachaMadhu/myLeetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PachaMadhu/myLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PachaMadhu/myLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
