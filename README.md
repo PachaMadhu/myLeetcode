@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PachaMadhu/myLeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaMadhu/myLeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PachaMadhu/myLeetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PachaMadhu/myLeetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PachaMadhu/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/PachaMadhu/myLeetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaMadhu/myLeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PachaMadhu/myLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
