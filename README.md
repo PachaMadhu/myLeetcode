@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaMadhu/myLeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/PachaMadhu/myLeetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/PachaMadhu/myLeetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PachaMadhu/myLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaMadhu/myLeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/PachaMadhu/myLeetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PachaMadhu/myLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
