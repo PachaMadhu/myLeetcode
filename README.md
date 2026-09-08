@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PachaMadhu/myLeetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PachaMadhu/myLeetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PachaMadhu/myLeetcode/tree/master/0303-range-sum-query-immutable) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/PachaMadhu/myLeetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PachaMadhu/myLeetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/PachaMadhu/myLeetcode/tree/master/0860-lemonade-change) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PachaMadhu/myLeetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
