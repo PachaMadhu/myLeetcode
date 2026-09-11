@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PachaMadhu/myLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PachaMadhu/myLeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PachaMadhu/myLeetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PachaMadhu/myLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PachaMadhu/myLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PachaMadhu/myLeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PachaMadhu/myLeetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PachaMadhu/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
