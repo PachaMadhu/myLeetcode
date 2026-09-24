@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PachaMadhu/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PachaMadhu/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PachaMadhu/myLeetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PachaMadhu/myLeetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PachaMadhu/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/PachaMadhu/myLeetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/PachaMadhu/myLeetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/PachaMadhu/myLeetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/PachaMadhu/myLeetcode/tree/master/0196-delete-duplicate-emails) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PachaMadhu/myLeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
