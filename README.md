@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PachaMadhu/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PachaMadhu/myLeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PachaMadhu/myLeetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PachaMadhu/myLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PachaMadhu/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PachaMadhu/myLeetcode/tree/master/0014-longest-common-prefix) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PachaMadhu/myLeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/PachaMadhu/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PachaMadhu/myLeetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PachaMadhu/myLeetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PachaMadhu/myLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/PachaMadhu/myLeetcode/tree/master/0860-lemonade-change) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PachaMadhu/myLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PachaMadhu/myLeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PachaMadhu/myLeetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PachaMadhu/myLeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PachaMadhu/myLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
