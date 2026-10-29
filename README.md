@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PachaMadhu/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/PachaMadhu/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PachaMadhu/myLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PachaMadhu/myLeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PachaMadhu/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/PachaMadhu/myLeetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/PachaMadhu/myLeetcode/tree/master/0055-jump-game) |
+| [0217-contains-duplicate](https://github.com/PachaMadhu/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PachaMadhu/myLeetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PachaMadhu/myLeetcode/tree/master/0303-range-sum-query-immutable) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PachaMadhu/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PachaMadhu/myLeetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/PachaMadhu/myLeetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/PachaMadhu/myLeetcode/tree/master/0506-relative-ranks) |
